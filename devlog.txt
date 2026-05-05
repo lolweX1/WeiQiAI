@@ -1,0 +1,5 @@
+5/1/2026
+Beginning project
+Using AI to help learn how AIs work, teach me math, and do tedious work.
+5/5/2026
+Used AI to create a working Weiqi game and create the rules function
